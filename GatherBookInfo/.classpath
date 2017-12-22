@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resource"/>
+	<classpathentry kind="lib" path="lib/jsoup-1.10.1.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.0.5-bin.jar"/>
+	<classpathentry kind="lib" path="lib/poi.jar"/>
+	<classpathentry kind="lib" path="lib/htmlunit-2.26-OSGi.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-api-2.9.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-core-2.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/CodeRepertory/GatherBookInfo/lib/httpclient-win-4.5.4.jar"/>
+	<classpathentry kind="lib" path="D:/CodeRepertory/GatherBookInfo/lib/httpclient-cache-4.5.4.jar"/>
+	<classpathentry kind="lib" path="D:/CodeRepertory/GatherBookInfo/lib/fluent-hc-4.5.4.jar"/>
+	<classpathentry kind="lib" path="D:/CodeRepertory/GatherBookInfo/lib/httpmime-4.5.4.jar"/>
+	<classpathentry kind="lib" path="D:/CodeRepertory/GatherBookInfo/lib/httpclient-4.5.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
